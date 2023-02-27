@@ -1,0 +1,27 @@
+body{
+    background-size:auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(0, 0, 250);
+    width: auto;
+    margin: auto;
+    
+}
+header{
+    height: auto;
+    width: 569px;
+    background-color: darkmagenta;
+    margin: auto;
+    letter-spacing:center;
+}
+.menu > li {
+    float:center;
+}
+.menu <li b>{
+
+} 
+    background-color : brown;
+    color :yellow; 
+    text-decoration : none;
+    padding :10px 15px;
+    display : block;
+}
